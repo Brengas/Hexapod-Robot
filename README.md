@@ -16,7 +16,7 @@ This repository contains the design, code, and documentation for a hexapod robot
 ## CAD Design
 <p align="center">
 <img src="https://raw.githubusercontent.com/Brengas/Hexapod-Robot/main/images/hexapod.jpg" height="70%" width="70%" alt="CAD design Fusion 360"/>
-<img src="https://raw.githubusercontent.com/Brengas/Hexapod-Robot/main/images/hexapod.jpg" height="70%" width="70%" alt="Robot in Ready-to-walk position"/>
+<img src="https://raw.githubusercontent.com/Brengas/Hexapod-Robot/main/images/hexapod2.jpg" height="70%" width="70%" alt="Robot in Ready-to-walk position"/>
 
 ## Current Status
 - The robot’s mechanical structure has been fully assembled, and basic servo control has been implemented.  
